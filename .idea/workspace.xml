@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48308173-bb2f-4496-97d4-7335d7dabf9f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Filters/ExampleFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/controllers/AdminController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/models/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/models/AdminRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/models/JPAAdminRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/models/LatLong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CitizensEngage.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CitizensEngage.ipr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CitizensEngage.iws" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/ComplaintController.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/ComplaintController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/Complaint.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/Complaint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/ComplaintRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/ComplaintRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/JPAComplaintRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/JPAComplaintRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/JPAUserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/JPAUserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/build.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/CitizensEngage.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/playBinary/classes/controllers/ComplaintController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/playBinary/classes/controllers/ComplaintController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/playBinary/classes/controllers/HomeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/playBinary/classes/controllers/ReverseComplaintController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/playBinary/classes/controllers/ReverseComplaintController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/playBinary/classes/controllers/ReverseHomeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/playBinary/classes/controllers/ReverseUserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/playBinary/classes/controllers/ReverseUserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/playBinary/classes/controllers/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/playBinary/classes/controllers/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/playBinary/classes/controllers/javascript/ReverseComplaintController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/playBinary/classes/controllers/javascript/ReverseComplaintController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/playBinary/classes/controllers/javascript/ReverseHomeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/playBinary/classes/controllers/javascript/ReverseUserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/playBinary/classes/controllers/javascript/ReverseUserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/playBinary/classes/controllers/routes$javascript.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/playBinary/classes/controllers/routes$javascript.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/playBinary/classes/controllers/routes.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/playBinary/classes/controllers/routes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/playBinary/classes/models/Complaint.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/playBinary/classes/models/Complaint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/playBinary/classes/models/ComplaintRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/playBinary/classes/models/ComplaintRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/playBinary/classes/models/JPAComplaintRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/playBinary/classes/models/JPAComplaintRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/playBinary/classes/models/JPAUserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/playBinary/classes/models/JPAUserRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/playBinary/classes/models/UserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/playBinary/classes/models/UserRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/playBinary/classes/router/Routes$$anonfun$routes$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/playBinary/classes/router/Routes$$anonfun$routes$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/playBinary/classes/router/Routes.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/playBinary/classes/router/Routes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/playBinary/classes/router/RoutesPrefix$.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/playBinary/classes/router/RoutesPrefix$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/playBinary/classes/router/RoutesPrefix.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/playBinary/classes/router/RoutesPrefix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/playBinary/classes/views/html/index$.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/playBinary/classes/views/html/index$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/playBinary/classes/views/html/index.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/playBinary/classes/views/html/index.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/playBinary/classes/views/html/main$.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/playBinary/classes/views/html/main$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/playBinary/classes/views/html/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/playBinary/classes/views/html/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/playBinary/lib/CitizensEngage-assets.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/playBinary/lib/CitizensEngage-assets.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/playBinary/lib/CitizensEngage.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/playBinary/lib/CitizensEngage.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/playBinary/resources/application.conf" beforeDir="false" afterPath="$PROJECT_DIR$/build/playBinary/resources/application.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/playBinary/resources/routes" beforeDir="false" afterPath="$PROJECT_DIR$/build/playBinary/resources/routes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/src/play/binary/routesScalaSources/controllers/ReverseRoutes.scala" beforeDir="false" afterPath="$PROJECT_DIR$/build/src/play/binary/routesScalaSources/controllers/ReverseRoutes.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/src/play/binary/routesScalaSources/controllers/javascript/JavaScriptReverseRoutes.scala" beforeDir="false" afterPath="$PROJECT_DIR$/build/src/play/binary/routesScalaSources/controllers/javascript/JavaScriptReverseRoutes.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/src/play/binary/routesScalaSources/controllers/routes.java" beforeDir="false" afterPath="$PROJECT_DIR$/build/src/play/binary/routesScalaSources/controllers/routes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/src/play/binary/routesScalaSources/router/Routes.scala" beforeDir="false" afterPath="$PROJECT_DIR$/build/src/play/binary/routesScalaSources/router/Routes.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/src/play/binary/routesScalaSources/router/RoutesPrefix.scala" beforeDir="false" afterPath="$PROJECT_DIR$/build/src/play/binary/routesScalaSources/router/RoutesPrefix.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/src/play/binary/twirlTemplatesScalaSources/views/html/index.template.scala" beforeDir="false" afterPath="$PROJECT_DIR$/build/src/play/binary/twirlTemplatesScalaSources/views/html/index.template.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/src/play/binary/twirlTemplatesScalaSources/views/html/main.template.scala" beforeDir="false" afterPath="$PROJECT_DIR$/build/src/play/binary/twirlTemplatesScalaSources/views/html/main.template.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/scala/compilerAnalysis/compilePlayBinaryScala.analysis" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/scala/compilerAnalysis/compilePlayBinaryScala.analysis" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/scala/compilerAnalysis/compilePlayBinaryScala.analysis.relations" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/scala/compilerAnalysis/compilePlayBinaryScala.analysis.relations" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/application.conf" beforeDir="false" afterPath="$PROJECT_DIR$/conf/application.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/routes" beforeDir="false" afterPath="$PROJECT_DIR$/conf/routes" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YQA7zsLgBUfXEPRuCIbveNuMOc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/controllers" />
+      <recent name="$PROJECT_DIR$/app/models" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle assemble" />
+      <command value="open CitizensEnagage.ipr" />
+      <command value="gradle idea" />
+      <command value="gradle runPlayBinary" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.Backend 27-02-2020 [runPlayBinary]">
+    <configuration name="Backend 27-02-2020 [assemble]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="assemble" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Backend 27-02-2020 [idea]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="idea" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Backend 27-02-2020 [runPlayBinary]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="runPlayBinary" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Backend 27-02-2020 [assemble]" />
+        <item itemvalue="Gradle.Backend 27-02-2020 [runPlayBinary]" />
+        <item itemvalue="Gradle.Backend 27-02-2020 [idea]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48308173-bb2f-4496-97d4-7335d7dabf9f" name="Default Changelist" comment="" />
+      <created>1582864280118</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582864280118</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="123" width="2360" height="1137" key="DiffContextDialog" timestamp="1583904683261">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="100" y="123" width="2360" height="1137" key="DiffContextDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1583904683261" />
+    <state width="1541" height="200" key="GridCell.Tab.0.bottom" timestamp="1584181946417">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="2518" height="224" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1584181667335" />
+    <state width="1541" height="200" key="GridCell.Tab.0.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1584181946417" />
+    <state width="2518" height="517" key="GridCell.Tab.0.bottom/0.23.2560.1338@0.23.2560.1338" timestamp="1583921936566" />
+    <state width="2518" height="423" key="GridCell.Tab.0.bottom/0.23.2560.1345@0.23.2560.1345" timestamp="1583397623496" />
+    <state width="1541" height="200" key="GridCell.Tab.0.center" timestamp="1584181946416">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="2518" height="224" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1584181667334" />
+    <state width="1541" height="200" key="GridCell.Tab.0.center/0.23.2560.1337@0.23.2560.1337" timestamp="1584181946416" />
+    <state width="2518" height="517" key="GridCell.Tab.0.center/0.23.2560.1338@0.23.2560.1338" timestamp="1583921936565" />
+    <state width="2518" height="423" key="GridCell.Tab.0.center/0.23.2560.1345@0.23.2560.1345" timestamp="1583397623495" />
+    <state width="1541" height="200" key="GridCell.Tab.0.left" timestamp="1584181946415">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="2518" height="224" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1584181667334" />
+    <state width="1541" height="200" key="GridCell.Tab.0.left/0.23.2560.1337@0.23.2560.1337" timestamp="1584181946415" />
+    <state width="2518" height="517" key="GridCell.Tab.0.left/0.23.2560.1338@0.23.2560.1338" timestamp="1583921936565" />
+    <state width="2518" height="423" key="GridCell.Tab.0.left/0.23.2560.1345@0.23.2560.1345" timestamp="1583397623494" />
+    <state width="1541" height="200" key="GridCell.Tab.0.right" timestamp="1584181946416">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="2518" height="224" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1584181667335" />
+    <state width="1541" height="200" key="GridCell.Tab.0.right/0.23.2560.1337@0.23.2560.1337" timestamp="1584181946416" />
+    <state width="2518" height="517" key="GridCell.Tab.0.right/0.23.2560.1338@0.23.2560.1338" timestamp="1583921936566" />
+    <state width="2518" height="423" key="GridCell.Tab.0.right/0.23.2560.1345@0.23.2560.1345" timestamp="1583397623495" />
+    <state x="1040" y="409" key="RollbackChangesDialog" timestamp="1583904631733">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1040" y="409" key="RollbackChangesDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1583904631733" />
+    <state x="1010" y="470" width="543" height="524" key="StructurePopup" timestamp="1583903788532">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1010" y="470" width="543" height="524" key="StructurePopup/0.0.2560.1440@0.0.2560.1440" timestamp="1583903788532" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1583903800795">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.0.2560.1440@0.0.2560.1440" timestamp="1583903800795" />
+    <state x="100" y="123" width="2360" height="1137" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1583904683262">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="100" y="123" width="2360" height="1137" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1583904683262" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1583990237497">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.2560.1440@0.0.2560.1440" timestamp="1583990237497" />
+    <state x="952" y="325" width="670" height="675" key="run.anything.popup" timestamp="1584332017023">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="952" y="325" width="670" height="728" key="run.anything.popup/0.0.2560.1440@0.0.2560.1440" timestamp="1583900261524" />
+    <state x="952" y="325" width="670" height="675" key="run.anything.popup/0.23.2560.1337@0.23.2560.1337" timestamp="1584332017023" />
+    <state x="952" y="325" width="670" height="677" key="run.anything.popup/0.23.2560.1338@0.23.2560.1338" timestamp="1583920972466" />
+    <state x="945" y="382" width="670" height="676" key="search.everywhere.popup" timestamp="1583902033112">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="945" y="382" width="670" height="676" key="search.everywhere.popup/0.0.2560.1440@0.0.2560.1440" timestamp="1583902033112" />
+  </component>
+</project>

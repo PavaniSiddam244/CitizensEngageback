@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CitizensEngage">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/libs/CitizensEngage.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
